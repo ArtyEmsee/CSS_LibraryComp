@@ -89,7 +89,25 @@
 	            return _react2.default.createElement(
 	                'div',
 	                null,
-	                '.'
+	                _react2.default.createElement(
+	                    'div',
+	                    { className: 'row between-xs violet site-container' },
+	                    _react2.default.createElement(
+	                        'div',
+	                        { className: 'col-xs-2 std-text indigo' },
+	                        'ArtyEmsee'
+	                    ),
+	                    _react2.default.createElement(
+	                        'div',
+	                        { className: 'col-xs-2 std-text blue' },
+	                        'ArtyEmsee'
+	                    ),
+	                    _react2.default.createElement(
+	                        'div',
+	                        { className: 'col-xs-2 std-text green' },
+	                        'ArtyEmsee'
+	                    )
+	                )
 	            );
 	        }
 	    }]);

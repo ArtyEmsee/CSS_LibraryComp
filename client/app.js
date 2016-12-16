@@ -10,7 +10,19 @@ class App extends React.Component {
 
     render () {
         return (
-            <div>.</div>
+            <div>
+                <div className="row between-xs violet site-container">
+                    <div className="col-xs-2 std-text indigo">
+                        ArtyEmsee
+                    </div>
+                    <div className="col-xs-2 std-text blue">
+                        ArtyEmsee
+                    </div>
+                    <div className="col-xs-2 std-text green">
+                        ArtyEmsee
+                    </div>
+                </div>
+            </div>
         )
     }
 }

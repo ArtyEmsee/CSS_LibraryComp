@@ -1,0 +1,49 @@
+body {
+    margin: 0 0 0 0;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+.violet {
+    background-color: #9400D3;
+}
+
+.indigo {
+    background-color: #4B0082;
+}
+
+.blue {
+    background-color: #0000FF;
+}
+
+.green {
+    background-color: #00FF00;
+}
+
+.yellow {
+    background-color: #FFFF00;
+}
+
+.orange {
+    background-color: #FF7F00;
+}
+
+.red {
+    background-color: #FF0000;
+}
+
+.site-container {
+    height: 6vh;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.std-text {
+    text-align: center;
+}
